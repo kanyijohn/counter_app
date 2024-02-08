@@ -1,2 +1,2 @@
 # counter_app
-A simple count app created using React
+A simple state-driven count app created using React
